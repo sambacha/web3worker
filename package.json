@@ -1,0 +1,25 @@
+{
+  "name": "web3worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": ["*.js"],
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/web3worker.git"
+  },
+  "keywords": [],
+  "author": "sam bacha <sam@manifoldfinance.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/web3worker/issues"
+  },
+  "homepage": "https://github.com/sambacha/web3worker#readme"
+}
